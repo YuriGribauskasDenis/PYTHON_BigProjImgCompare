@@ -1,0 +1,2412 @@
+{
+    "CX482": {
+        "CAMERA1001": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1002": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1003": {
+            "LEFT": 1961,
+            "TOP": 6558,
+            "RIGHT": 4463,
+            "BOTTOM": 8768
+        },
+        "CAMERA1004": {
+            "LEFT": 1880,
+            "TOP": 4802,
+            "RIGHT": 2842,
+            "BOTTOM": 7322
+        },
+        "CAMERA1005": {
+            "LEFT": 1882,
+            "TOP": 3070,
+            "RIGHT": 2799,
+            "BOTTOM": 5640
+        },
+        "CAMERA1006": {
+            "LEFT": 1938,
+            "TOP": 1738,
+            "RIGHT": 4387,
+            "BOTTOM": 3877
+        },
+        "CAMERA1007": {
+            "LEFT": 2501,
+            "TOP": 7471,
+            "RIGHT": 7979,
+            "BOTTOM": 9527
+        },
+        "CAMERA1008": {
+            "LEFT": 2333,
+            "TOP": 5769,
+            "RIGHT": 6812,
+            "BOTTOM": 8157
+        },
+        "CAMERA1009": {
+            "LEFT": 2453,
+            "TOP": 4006,
+            "RIGHT": 6467,
+            "BOTTOM": 6416
+        },
+        "CAMERA1010": {
+            "LEFT": 2387,
+            "TOP": 2261,
+            "RIGHT": 6812,
+            "BOTTOM": 4633
+        },
+        "CAMERA1011": {
+            "LEFT": 2506,
+            "TOP": 903,
+            "RIGHT": 7938,
+            "BOTTOM": 2949
+        },
+        "CAMERA1016": {
+            "LEFT": 9733,
+            "TOP": 5046,
+            "RIGHT": 21144,
+            "BOTTOM": 9103
+        },
+        "CAMERA1017": {
+            "LEFT": 10900,
+            "TOP": 3285,
+            "RIGHT": 21300,
+            "BOTTOM": 7157
+        },
+        "CAMERA1018": {
+            "LEFT": 11106,
+            "TOP": 2042,
+            "RIGHT": 21131,
+            "BOTTOM": 5359
+        },
+        "CAMERA1101": {
+            "LEFT": 10122,
+            "TOP": 1593,
+            "RIGHT": 18387,
+            "BOTTOM": 2872
+        },
+        "CAMERA1102": {
+            "LEFT": 3904,
+            "TOP": 1601,
+            "RIGHT": 22362,
+            "BOTTOM": 4737
+        },
+        "CAMERA1103": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1104": {
+            "LEFT": 3037,
+            "TOP": 3143,
+            "RIGHT": 22351,
+            "BOTTOM": 5556
+        },
+        "CAMERA1105": {
+            "LEFT": 3775,
+            "TOP": 4569,
+            "RIGHT": 21563,
+            "BOTTOM": 6939
+        },
+        "CAMERA1106": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1107": {
+            "LEFT": 7912,
+            "TOP": 6368,
+            "RIGHT": 17504,
+            "BOTTOM": 7862
+        },
+        "CAMERA1108": {
+            "LEFT": 17321,
+            "TOP": 2225,
+            "RIGHT": 22889,
+            "BOTTOM": 4557
+        },
+        "CAMERA1109": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1201": {
+            "LEFT": 7075,
+            "TOP": 1591,
+            "RIGHT": 14998,
+            "BOTTOM": 2923
+        },
+        "CAMERA1202": {
+            "LEFT": 2671,
+            "TOP": 1591,
+            "RIGHT": 21076,
+            "BOTTOM": 4740
+        },
+        "CAMERA1203": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1204": {
+            "LEFT": 2626,
+            "TOP": 3070,
+            "RIGHT": 22019,
+            "BOTTOM": 5572
+        },
+        "CAMERA1205": {
+            "LEFT": 3460,
+            "TOP": 4640,
+            "RIGHT": 21266,
+            "BOTTOM": 7046
+        },
+        "CAMERA1206": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1207": {
+            "LEFT": 7461,
+            "TOP": 6368,
+            "RIGHT": 17032,
+            "BOTTOM": 7845
+        },
+        "CAMERA1208": {
+            "LEFT": 2123,
+            "TOP": 2253,
+            "RIGHT": 7705,
+            "BOTTOM": 4595
+        },
+        "CAMERA1209": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1301": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1302": {
+            "LEFT": 3024,
+            "TOP": 4556,
+            "RIGHT": 5483,
+            "BOTTOM": 6531
+        },
+        "CAMERA1303": {
+            "LEFT": 3161,
+            "TOP": 5624,
+            "RIGHT": 7162,
+            "BOTTOM": 6660
+        },
+        "CAMERA1304": {
+            "LEFT": 3017,
+            "TOP": 3998,
+            "RIGHT": 8068,
+            "BOTTOM": 5219
+        },
+        "CAMERA1305": {
+            "LEFT": 3027,
+            "TOP": 4594,
+            "RIGHT": 6865,
+            "BOTTOM": 6541
+        },
+        "CAMERA1306": {
+            "LEFT": 3060,
+            "TOP": 5586,
+            "RIGHT": 4113,
+            "BOTTOM": 6135
+        },
+        "CAMERA1307": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1308": {
+            "LEFT": 3851,
+            "TOP": 4567,
+            "RIGHT": 9547,
+            "BOTTOM": 6546
+        },
+        "CAMERA1309": {
+            "LEFT": 5211,
+            "TOP": 5622,
+            "RIGHT": 9253,
+            "BOTTOM": 6723
+        },
+        "CAMERA1310": {
+            "LEFT": 4442,
+            "TOP": 4016,
+            "RIGHT": 9529,
+            "BOTTOM": 5211
+        },
+        "CAMERA1311": {
+            "LEFT": 3747,
+            "TOP": 4579,
+            "RIGHT": 9542,
+            "BOTTOM": 6536
+        },
+        "CAMERA1312": {
+            "LEFT": 8301,
+            "TOP": 5551,
+            "RIGHT": 9344,
+            "BOTTOM": 6102
+        }
+    },
+    "LWB": {
+        "CAMERA1003": {
+            "LEFT": 992,
+            "TOP": 6746,
+            "RIGHT": 4262,
+            "BOTTOM": 8943
+        },
+        "CAMERA1004": {
+            "LEFT": 832,
+            "TOP": 5000,
+            "RIGHT": 4138,
+            "BOTTOM": 7228
+        },
+        "CAMERA1005": {
+            "LEFT": 827,
+            "TOP": 3245,
+            "RIGHT": 4123,
+            "BOTTOM": 5470
+        },
+        "CAMERA1006": {
+            "LEFT": 964,
+            "TOP": 1502,
+            "RIGHT": 4136,
+            "BOTTOM": 3732
+        },
+        "CAMERA1007": {
+            "LEFT": 1243,
+            "TOP": 7590,
+            "RIGHT": 4843,
+            "BOTTOM": 9204
+        },
+        "CAMERA1008": {
+            "LEFT": 1066,
+            "TOP": 5858,
+            "RIGHT": 4278,
+            "BOTTOM": 8157
+        },
+        "CAMERA1009": {
+            "LEFT": 1010,
+            "TOP": 4090,
+            "RIGHT": 3925,
+            "BOTTOM": 6401
+        },
+        "CAMERA1010": {
+            "LEFT": 1083,
+            "TOP": 2319,
+            "RIGHT": 4255,
+            "BOTTOM": 4648
+        },
+        "CAMERA1011": {
+            "LEFT": 1258,
+            "TOP": 1243,
+            "RIGHT": 4846,
+            "BOTTOM": 2888
+        },
+        "CAMERA1301": {
+            "LEFT": 2565,
+            "TOP": 1931,
+            "RIGHT": 6178,
+            "BOTTOM": 5541
+        },
+        "CAMERA1302": {
+            "LEFT": 2535,
+            "TOP": 4338,
+            "RIGHT": 5846,
+            "BOTTOM": 7396
+        },
+        "CAMERA1303": {
+            "LEFT": 2560,
+            "TOP": 1563,
+            "RIGHT": 7642,
+            "BOTTOM": 5762
+        },
+        "CAMERA1304": {
+            "LEFT": 2699,
+            "TOP": 1959,
+            "RIGHT": 6295,
+            "BOTTOM": 5458
+        },
+        "CAMERA1305": {
+            "LEFT": 2535,
+            "TOP": 4488,
+            "RIGHT": 6302,
+            "BOTTOM": 7396
+        },
+        "CAMERA1306": {
+            "LEFT": 2646,
+            "TOP": 3285,
+            "RIGHT": 6198,
+            "BOTTOM": 5988
+        },
+        "CAMERA1307": {
+            "LEFT": 6246,
+            "TOP": 1773,
+            "RIGHT": 9859,
+            "BOTTOM": 5541
+        },
+        "CAMERA1308": {
+            "LEFT": 6246,
+            "TOP": 4262,
+            "RIGHT": 9935,
+            "BOTTOM": 7386
+        },
+        "CAMERA1309": {
+            "LEFT": 6066,
+            "TOP": 1467,
+            "RIGHT": 9808,
+            "BOTTOM": 5701
+        },
+        "CAMERA1310": {
+            "LEFT": 6231,
+            "TOP": 1923,
+            "RIGHT": 9785,
+            "BOTTOM": 5450
+        },
+        "CAMERA1311": {
+            "LEFT": 6218,
+            "TOP": 4452,
+            "RIGHT": 9945,
+            "BOTTOM": 7378
+        },
+        "CAMERA1312": {
+            "LEFT": 6254,
+            "TOP": 3260,
+            "RIGHT": 9740,
+            "BOTTOM": 6049
+        },
+        "CAMERA1015": {
+            "LEFT": 7374,
+            "TOP": 7362,
+            "RIGHT": 22450,
+            "BOTTOM": 8974
+        },
+        "CAMERA1101": {
+            "LEFT": 7080,
+            "TOP": 619,
+            "RIGHT": 22149,
+            "BOTTOM": 2730
+        },
+        "CAMERA1102": {
+            "LEFT": 2225,
+            "TOP": 1307,
+            "RIGHT": 13088,
+            "BOTTOM": 4800
+        },
+        "CAMERA1103": {
+            "LEFT": 6076,
+            "TOP": 908,
+            "RIGHT": 22374,
+            "BOTTOM": 3365
+        },
+        "CAMERA1104": {
+            "LEFT": 2491,
+            "TOP": 3100,
+            "RIGHT": 22514,
+            "BOTTOM": 5617
+        },
+        "CAMERA1105": {
+            "LEFT": 2496,
+            "TOP": 4564,
+            "RIGHT": 22488,
+            "BOTTOM": 6952
+        },
+        "CAMERA1106": {
+            "LEFT": 1634,
+            "TOP": 4100,
+            "RIGHT": 17940,
+            "BOTTOM": 6604
+        },
+        "CAMERA1107": {
+            "LEFT": 5515,
+            "TOP": 6375,
+            "RIGHT": 18113,
+            "BOTTOM": 8195
+        },
+        "CAMERA1108": {
+            "LEFT": 11966,
+            "TOP": 2238,
+            "RIGHT": 22494,
+            "BOTTOM": 4631
+        },
+        "CAMERA1109": {
+            "LEFT": 4731,
+            "TOP": 4678,
+            "RIGHT": 22509,
+            "BOTTOM": 7023
+        },
+        "CAMERA1012": {
+            "LEFT": 8080,
+            "TOP": 5769,
+            "RIGHT": 9709,
+            "BOTTOM": 8788
+        },
+        "CAMERA1013": {
+            "LEFT": 8057,
+            "TOP": 3493,
+            "RIGHT": 23887,
+            "BOTTOM": 6967
+        },
+        "CAMERA1014": {
+            "LEFT": 8100,
+            "TOP": 1565,
+            "RIGHT": 9704,
+            "BOTTOM": 4757
+        },
+        "CAMERA1016": {
+            "LEFT": 8442,
+            "TOP": 5642,
+            "RIGHT": 23554,
+            "BOTTOM": 8659
+        },
+        "CAMERA1017": {
+            "LEFT": 7710,
+            "TOP": 3300,
+            "RIGHT": 23230,
+            "BOTTOM": 7110
+        },
+        "CAMERA1018": {
+            "LEFT": 8419,
+            "TOP": 1801,
+            "RIGHT": 23554,
+            "BOTTOM": 4841
+        },
+        "CAMERA1019": {
+            "LEFT": 6811,
+            "TOP": 1380,
+            "RIGHT": 22425,
+            "BOTTOM": 3131
+        },
+        "CAMERA1201": {
+            "LEFT": 2895,
+            "TOP": 614,
+            "RIGHT": 17938,
+            "BOTTOM": 2738
+        },
+        "CAMERA1202": {
+            "LEFT": 11951,
+            "TOP": 1297,
+            "RIGHT": 22773,
+            "BOTTOM": 4780
+        },
+        "CAMERA1203": {
+            "LEFT": 2205,
+            "TOP": 662,
+            "RIGHT": 18940,
+            "BOTTOM": 3365
+        },
+        "CAMERA1204": {
+            "LEFT": 2517,
+            "TOP": 3105,
+            "RIGHT": 22494,
+            "BOTTOM": 5655
+        },
+        "CAMERA1205": {
+            "LEFT": 2547,
+            "TOP": 4627,
+            "RIGHT": 22514,
+            "BOTTOM": 7043
+        },
+        "CAMERA1206": {
+            "LEFT": 7445,
+            "TOP": 4006,
+            "RIGHT": 23392,
+            "BOTTOM": 6553
+        },
+        "CAMERA1207": {
+            "LEFT": 6938,
+            "TOP": 6380,
+            "RIGHT": 19447,
+            "BOTTOM": 8172
+        },
+        "CAMERA1208": {
+            "LEFT": 2529,
+            "TOP": 2255,
+            "RIGHT": 13067,
+            "BOTTOM": 4664
+        },
+        "CAMERA1209": {
+            "LEFT": 2524,
+            "TOP": 4696,
+            "RIGHT": 20299,
+            "BOTTOM": 7008
+        }
+    },
+    "SWB": {
+        "CAMERA1003": {
+            "LEFT": 2684,
+            "TOP": 6718,
+            "RIGHT": 4990,
+            "BOTTOM": 8933
+        },
+        "CAMERA1004": {
+            "LEFT": 2552,
+            "TOP": 4983,
+            "RIGHT": 5886,
+            "BOTTOM": 7226
+        },
+        "CAMERA1005": {
+            "LEFT": 2539,
+            "TOP": 3209,
+            "RIGHT": 5888,
+            "BOTTOM": 5488
+        },
+        "CAMERA1006": {
+            "LEFT": 2674,
+            "TOP": 1507,
+            "RIGHT": 4952,
+            "BOTTOM": 3735
+        },
+        "CAMERA1007": {
+            "LEFT": 2943,
+            "TOP": 7583,
+            "RIGHT": 6726,
+            "BOTTOM": 9156
+        },
+        "CAMERA1008": {
+            "LEFT": 2730,
+            "TOP": 5805,
+            "RIGHT": 5939,
+            "BOTTOM": 8157
+        },
+        "CAMERA1009": {
+            "LEFT": 2687,
+            "TOP": 4064,
+            "RIGHT": 5622,
+            "BOTTOM": 6404
+        },
+        "CAMERA1010": {
+            "LEFT": 2775,
+            "TOP": 2296,
+            "RIGHT": 5932,
+            "BOTTOM": 4636
+        },
+        "CAMERA1011": {
+            "LEFT": 2948,
+            "TOP": 1256,
+            "RIGHT": 6654,
+            "BOTTOM": 2898
+        },
+        "CAMERA1012": {
+            "LEFT": 9140,
+            "TOP": 5769,
+            "RIGHT": 12948,
+            "BOTTOM": 9029
+        },
+        "CAMERA1013": {
+            "LEFT": 9860,
+            "TOP": 3476,
+            "RIGHT": 22745,
+            "BOTTOM": 6937
+        },
+        "CAMERA1014": {
+            "LEFT": 9122,
+            "TOP": 1398,
+            "RIGHT": 12920,
+            "BOTTOM": 4770
+        },
+        "CAMERA1016": {
+            "LEFT": 10545,
+            "TOP": 5599,
+            "RIGHT": 22346,
+            "BOTTOM": 8580
+        },
+        "CAMERA1017": {
+            "LEFT": 9700,
+            "TOP": 3360,
+            "RIGHT": 21160,
+            "BOTTOM": 7125
+        },
+        "CAMERA1018": {
+            "LEFT": 10533,
+            "TOP": 1870,
+            "RIGHT": 22382,
+            "BOTTOM": 4866
+        },
+        "CAMERA1015": {
+            "LEFT": 9865,
+            "TOP": 7337,
+            "RIGHT": 22194,
+            "BOTTOM": 8887
+        },
+        "CAMERA1101": {
+            "LEFT": 8648,
+            "TOP": 627,
+            "RIGHT": 21930,
+            "BOTTOM": 2791
+        },
+        "CAMERA1102": {
+            "LEFT": 4176,
+            "TOP": 1350,
+            "RIGHT": 22280,
+            "BOTTOM": 4806
+        },
+        "CAMERA1103": {
+            "LEFT": 7899,
+            "TOP": 703,
+            "RIGHT": 22603,
+            "BOTTOM": 3360
+        },
+        "CAMERA1104": {
+            "LEFT": 4259,
+            "TOP": 3108,
+            "RIGHT": 22245,
+            "BOTTOM": 5615
+        },
+        "CAMERA1105": {
+            "LEFT": 4285,
+            "TOP": 4569,
+            "RIGHT": 22217,
+            "BOTTOM": 6957
+        },
+        "CAMERA1106": {
+            "LEFT": 3295,
+            "TOP": 4021,
+            "RIGHT": 17669,
+            "BOTTOM": 6637
+        },
+        "CAMERA1107": {
+            "LEFT": 7291,
+            "TOP": 6373,
+            "RIGHT": 17877,
+            "BOTTOM": 8200
+        },
+        "CAMERA1109": {
+            "LEFT": 6707,
+            "TOP": 4671,
+            "RIGHT": 22291,
+            "BOTTOM": 7028
+        },
+        "CAMERA1019": {
+            "LEFT": 9817,
+            "TOP": 1522,
+            "RIGHT": 23300,
+            "BOTTOM": 5711
+        },
+        "CAMERA1201": {
+            "LEFT": 3080,
+            "TOP": 634,
+            "RIGHT": 16159,
+            "BOTTOM": 2756
+        },
+        "CAMERA1202": {
+            "LEFT": 2725,
+            "TOP": 1327,
+            "RIGHT": 20807,
+            "BOTTOM": 4773
+        },
+        "CAMERA1203": {
+            "LEFT": 2413,
+            "TOP": 657,
+            "RIGHT": 17141,
+            "BOTTOM": 3362
+        },
+        "CAMERA1204": {
+            "LEFT": 2755,
+            "TOP": 3098,
+            "RIGHT": 20720,
+            "BOTTOM": 5663
+        },
+        "CAMERA1205": {
+            "LEFT": 2778,
+            "TOP": 4640,
+            "RIGHT": 20725,
+            "BOTTOM": 7053
+        },
+        "CAMERA1206": {
+            "LEFT": 6903,
+            "TOP": 4054,
+            "RIGHT": 21689,
+            "BOTTOM": 6632
+        },
+        "CAMERA1207": {
+            "LEFT": 7080,
+            "TOP": 6380,
+            "RIGHT": 17654,
+            "BOTTOM": 8169
+        },
+        "CAMERA1209": {
+            "LEFT": 2714,
+            "TOP": 4681,
+            "RIGHT": 18318,
+            "BOTTOM": 7005
+        },
+        "CAMERA1302": {
+            "LEFT": 2593,
+            "TOP": 4338,
+            "RIGHT": 5704,
+            "BOTTOM": 7403
+        },
+        "CAMERA1303": {
+            "LEFT": 2547,
+            "TOP": 1611,
+            "RIGHT": 6107,
+            "BOTTOM": 4943
+        },
+        "CAMERA1304": {
+            "LEFT": 2755,
+            "TOP": 1951,
+            "RIGHT": 6323,
+            "BOTTOM": 5539
+        },
+        "CAMERA1305": {
+            "LEFT": 2590,
+            "TOP": 4498,
+            "RIGHT": 6282,
+            "BOTTOM": 7403
+        },
+        "CAMERA1306": {
+            "LEFT": 2611,
+            "TOP": 3214,
+            "RIGHT": 6249,
+            "BOTTOM": 6224
+        },
+        "CAMERA1308": {
+            "LEFT": 6188,
+            "TOP": 4270,
+            "RIGHT": 9950,
+            "BOTTOM": 7431
+        },
+        "CAMERA1309": {
+            "LEFT": 6144,
+            "TOP": 1512,
+            "RIGHT": 9732,
+            "BOTTOM": 5163
+        },
+        "CAMERA1310": {
+            "LEFT": 6152,
+            "TOP": 1916,
+            "RIGHT": 9793,
+            "BOTTOM": 5562
+        },
+        "CAMERA1311": {
+            "LEFT": 6137,
+            "TOP": 4460,
+            "RIGHT": 9950,
+            "BOTTOM": 7419
+        },
+        "CAMERA1312": {
+            "LEFT": 6241,
+            "TOP": 3214,
+            "RIGHT": 9773,
+            "BOTTOM": 6069
+        }
+    },
+    "GALAXY": {
+        "CAMERA1001": {
+            "LEFT": 0,
+            "TOP": 5998,
+            "RIGHT": 1823,
+            "BOTTOM": 8887
+        },
+        "CAMERA1002": {
+            "LEFT": 0,
+            "TOP": 1529,
+            "RIGHT": 1813,
+            "BOTTOM": 4397
+        },
+        "CAMERA1003": {
+            "LEFT": 38,
+            "TOP": 6318,
+            "RIGHT": 3551,
+            "BOTTOM": 9133
+        },
+        "CAMERA1004": {
+            "LEFT": 0,
+            "TOP": 4557,
+            "RIGHT": 2290,
+            "BOTTOM": 7629
+        },
+        "CAMERA1005": {
+            "LEFT": 0,
+            "TOP": 2771,
+            "RIGHT": 2138,
+            "BOTTOM": 5841
+        },
+        "CAMERA1006": {
+            "LEFT": 39,
+            "TOP": 1274,
+            "RIGHT": 3551,
+            "BOTTOM": 4088
+        },
+        "CAMERA1007": {
+            "LEFT": 1387,
+            "TOP": 7361,
+            "RIGHT": 4402,
+            "BOTTOM": 9506
+        },
+        "CAMERA1008": {
+            "LEFT": 1242,
+            "TOP": 5622,
+            "RIGHT": 4213,
+            "BOTTOM": 8317
+        },
+        "CAMERA1009": {
+            "LEFT": 1241,
+            "TOP": 3882,
+            "RIGHT": 4007,
+            "BOTTOM": 6555
+        },
+        "CAMERA1010": {
+            "LEFT": 1276,
+            "TOP": 2105,
+            "RIGHT": 4225,
+            "BOTTOM": 4797
+        },
+        "CAMERA1011": {
+            "LEFT": 1371,
+            "TOP": 986,
+            "RIGHT": 4625,
+            "BOTTOM": 3076
+        },
+        "CAMERA1012": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1013": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1014": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1015": {
+            "LEFT": 5762,
+            "TOP": 6875,
+            "RIGHT": 21883,
+            "BOTTOM": 9188
+        },
+        "CAMERA1016": {
+            "LEFT": 8909,
+            "TOP": 5104,
+            "RIGHT": 22347,
+            "BOTTOM": 8549
+        },
+        "CAMERA1017": {
+            "LEFT": 8893,
+            "TOP": 3349,
+            "RIGHT": 22365,
+            "BOTTOM": 7069
+        },
+        "CAMERA1018": {
+            "LEFT": 8892,
+            "TOP": 1869,
+            "RIGHT": 22337,
+            "BOTTOM": 5309
+        },
+        "CAMERA1019": {
+            "LEFT": 5855,
+            "TOP": 1217,
+            "RIGHT": 21850,
+            "BOTTOM": 3573
+        },
+        "CAMERA1020": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1021": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1022": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1023": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1101": {
+            "LEFT": 6740,
+            "TOP": 1328,
+            "RIGHT": 10264,
+            "BOTTOM": 3033
+        },
+        "CAMERA1102": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1103": {
+            "LEFT": 6046,
+            "TOP": 886,
+            "RIGHT": 22240,
+            "BOTTOM": 3514
+        },
+        "CAMERA1104": {
+            "LEFT": 1810,
+            "TOP": 2951,
+            "RIGHT": 22457,
+            "BOTTOM": 5794
+        },
+        "CAMERA1105": {
+            "LEFT": 2019,
+            "TOP": 4437,
+            "RIGHT": 21535,
+            "BOTTOM": 7002
+        },
+        "CAMERA1106": {
+            "LEFT": 184,
+            "TOP": 4311,
+            "RIGHT": 3848,
+            "BOTTOM": 6639
+        },
+        "CAMERA1107": {
+            "LEFT": 5712,
+            "TOP": 6374,
+            "RIGHT": 17021,
+            "BOTTOM": 8231
+        },
+        "CAMERA1108": {
+            "LEFT": 20524,
+            "TOP": 2062,
+            "RIGHT": 22423,
+            "BOTTOM": 4652
+        },
+        "CAMERA1109": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1201": {
+            "LEFT": 14742,
+            "TOP": 1308,
+            "RIGHT": 18261,
+            "BOTTOM": 3050
+        },
+        "CAMERA1202": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1203": {
+            "LEFT": 2756,
+            "TOP": 867,
+            "RIGHT": 19069,
+            "BOTTOM": 3539
+        },
+        "CAMERA1204": {
+            "LEFT": 2512,
+            "TOP": 2928,
+            "RIGHT": 22997,
+            "BOTTOM": 5810
+        },
+        "CAMERA1205": {
+            "LEFT": 3440,
+            "TOP": 4506,
+            "RIGHT": 22904,
+            "BOTTOM": 7114
+        },
+        "CAMERA1206": {
+            "LEFT": 20643,
+            "TOP": 4108,
+            "RIGHT": 24796,
+            "BOTTOM": 6653
+        },
+        "CAMERA1207": {
+            "LEFT": 7971,
+            "TOP": 6370,
+            "RIGHT": 19218,
+            "BOTTOM": 8219
+        },
+        "CAMERA1208": {
+            "LEFT": 2562,
+            "TOP": 2014,
+            "RIGHT": 4450,
+            "BOTTOM": 4702
+        },
+        "CAMERA1209": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1301": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1302": {
+            "LEFT": 2430,
+            "TOP": 4140,
+            "RIGHT": 6800,
+            "BOTTOM": 6430
+        },
+        "CAMERA1303": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1304": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1305": {
+            "LEFT": 2430,
+            "TOP": 4140,
+            "RIGHT": 8580,
+            "BOTTOM": 6430
+        },
+        "CAMERA1306": {
+            "LEFT": 2520,
+            "TOP": 2600,
+            "RIGHT": 6375,
+            "BOTTOM": 6630
+        },
+        "CAMERA1307": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1308": {
+            "LEFT": 5821,
+            "TOP": 4140,
+            "RIGHT": 10180,
+            "BOTTOM": 6430
+        },
+        "CAMERA1309": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1310": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1311": {
+            "LEFT": 4005,
+            "TOP": 4140,
+            "RIGHT": 10150,
+            "BOTTOM": 6430
+        },
+        "CAMERA1312": {
+            "LEFT": 6050,
+            "TOP": 2600,
+            "RIGHT": 9816,
+            "BOTTOM": 6630
+        }
+    },
+    "SMAX": {
+        "CAMERA1001": {
+            "LEFT": 0,
+            "TOP": 5932,
+            "RIGHT": 2063,
+            "BOTTOM": 8978
+        },
+        "CAMERA1002": {
+            "LEFT": 0,
+            "TOP": 1474,
+            "RIGHT": 2037,
+            "BOTTOM": 4548
+        },
+        "CAMERA1003": {
+            "LEFT": 62,
+            "TOP": 6330,
+            "RIGHT": 3902,
+            "BOTTOM": 9165
+        },
+        "CAMERA1004": {
+            "LEFT": 0,
+            "TOP": 4552,
+            "RIGHT": 2331,
+            "BOTTOM": 7683
+        },
+        "CAMERA1005": {
+            "LEFT": 0,
+            "TOP": 2758,
+            "RIGHT": 2174,
+            "BOTTOM": 5918
+        },
+        "CAMERA1006": {
+            "LEFT": 61,
+            "TOP": 1272,
+            "RIGHT": 3797,
+            "BOTTOM": 4153
+        },
+        "CAMERA1007": {
+            "LEFT": 1403,
+            "TOP": 7357,
+            "RIGHT": 4583,
+            "BOTTOM": 9300
+        },
+        "CAMERA1008": {
+            "LEFT": 1181,
+            "TOP": 5618,
+            "RIGHT": 4305,
+            "BOTTOM": 8349
+        },
+        "CAMERA1009": {
+            "LEFT": 1181,
+            "TOP": 3877,
+            "RIGHT": 4080,
+            "BOTTOM": 6584
+        },
+        "CAMERA1010": {
+            "LEFT": 1189,
+            "TOP": 2102,
+            "RIGHT": 4305,
+            "BOTTOM": 4830
+        },
+        "CAMERA1011": {
+            "LEFT": 1359,
+            "TOP": 976,
+            "RIGHT": 4651,
+            "BOTTOM": 3104
+        },
+        "CAMERA1012": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1013": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1014": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1015": {
+            "LEFT": 5590,
+            "TOP": 6791,
+            "RIGHT": 21509,
+            "BOTTOM": 9263
+        },
+        "CAMERA1016": {
+            "LEFT": 9012,
+            "TOP": 5177,
+            "RIGHT": 21709,
+            "BOTTOM": 8807
+        },
+        "CAMERA1017": {
+            "LEFT": 9103,
+            "TOP": 3269,
+            "RIGHT": 21714,
+            "BOTTOM": 7186
+        },
+        "CAMERA1018": {
+            "LEFT": 8996,
+            "TOP": 1594,
+            "RIGHT": 21709,
+            "BOTTOM": 5112
+        },
+        "CAMERA1019": {
+            "LEFT": 5673,
+            "TOP": 1144,
+            "RIGHT": 21484,
+            "BOTTOM": 3673
+        },
+        "CAMERA1020": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1021": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1022": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1023": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1101": {
+            "LEFT": 7185,
+            "TOP": 1242,
+            "RIGHT": 19643,
+            "BOTTOM": 3011
+        },
+        "CAMERA1102": {
+            "LEFT": 2878,
+            "TOP": 1366,
+            "RIGHT": 21523,
+            "BOTTOM": 4961
+        },
+        "CAMERA1103": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1104": {
+            "LEFT": 1912,
+            "TOP": 2946,
+            "RIGHT": 21564,
+            "BOTTOM": 5797
+        },
+        "CAMERA1105": {
+            "LEFT": 2169,
+            "TOP": 4437,
+            "RIGHT": 21150,
+            "BOTTOM": 7008
+        },
+        "CAMERA1106": {
+            "LEFT": 207,
+            "TOP": 4058,
+            "RIGHT": 4456,
+            "BOTTOM": 6684
+        },
+        "CAMERA1107": {
+            "LEFT": 5742,
+            "TOP": 6366,
+            "RIGHT": 17033,
+            "BOTTOM": 8238
+        },
+        "CAMERA1108": {
+            "LEFT": 19405,
+            "TOP": 2081,
+            "RIGHT": 22031,
+            "BOTTOM": 4399
+        },
+        "CAMERA1109": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1201": {
+            "LEFT": 5798,
+            "TOP": 1239,
+            "RIGHT": 17911,
+            "BOTTOM": 3035
+        },
+        "CAMERA1202": {
+            "LEFT": 3474,
+            "TOP": 1347,
+            "RIGHT": 22087,
+            "BOTTOM": 4962
+        },
+        "CAMERA1203": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1204": {
+            "LEFT": 3370,
+            "TOP": 2934,
+            "RIGHT": 23012,
+            "BOTTOM": 5815
+        },
+        "CAMERA1205": {
+            "LEFT": 3827,
+            "TOP": 4505,
+            "RIGHT": 22949,
+            "BOTTOM": 7113
+        },
+        "CAMERA1206": {
+            "LEFT": 20544,
+            "TOP": 4035,
+            "RIGHT": 24722,
+            "BOTTOM": 6629
+        },
+        "CAMERA1207": {
+            "LEFT": 7960,
+            "TOP": 6370,
+            "RIGHT": 19199,
+            "BOTTOM": 8218
+        },
+        "CAMERA1208": {
+            "LEFT": 2912,
+            "TOP": 2086,
+            "RIGHT": 5604,
+            "BOTTOM": 4632
+        },
+        "CAMERA1209": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 10,
+            "BOTTOM": 10
+        },
+        "CAMERA1301": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1302": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1303": {
+            "LEFT": 3232,
+            "TOP": 5310,
+            "RIGHT": 7543,
+            "BOTTOM": 6449
+        },
+        "CAMERA1304": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1305": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1306": {
+            "LEFT": 2043,
+            "TOP": 2651,
+            "RIGHT": 6497,
+            "BOTTOM": 6736
+        },
+        "CAMERA1307": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1308": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1309": {
+            "LEFT": 5411,
+            "TOP": 5229,
+            "RIGHT": 9580,
+            "BOTTOM": 6500
+        },
+        "CAMERA1310": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1311": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1312": {
+            "LEFT": 5888,
+            "TOP": 2651,
+            "RIGHT": 10104,
+            "BOTTOM": 6931
+        }
+    },
+    "MONDEO_4P": {
+        "CAMERA1001": {
+            "LEFT": 36,
+            "TOP": 5916,
+            "RIGHT": 2000,
+            "BOTTOM": 9082
+        },
+        "CAMERA1002": {
+            "LEFT": 17,
+            "TOP": 1305,
+            "RIGHT": 2008,
+            "BOTTOM": 4507
+        },
+        "CAMERA1003": {
+            "LEFT": 106,
+            "TOP": 6273,
+            "RIGHT": 3351,
+            "BOTTOM": 9205
+        },
+        "CAMERA1004": {
+            "LEFT": 69,
+            "TOP": 4527,
+            "RIGHT": 2109,
+            "BOTTOM": 7698
+        },
+        "CAMERA1005": {
+            "LEFT": 57,
+            "TOP": 2708,
+            "RIGHT": 2119,
+            "BOTTOM": 5883
+        },
+        "CAMERA1006": {
+            "LEFT": 98,
+            "TOP": 1205,
+            "RIGHT": 3485,
+            "BOTTOM": 4140
+        },
+        "CAMERA1007": {
+            "LEFT": 1167,
+            "TOP": 7270,
+            "RIGHT": 6329,
+            "BOTTOM": 9479
+        },
+        "CAMERA1008": {
+            "LEFT": 1047,
+            "TOP": 5541,
+            "RIGHT": 23634,
+            "BOTTOM": 8407
+        },
+        "CAMERA1009": {
+            "LEFT": 1134,
+            "TOP": 3785,
+            "RIGHT": 23639,
+            "BOTTOM": 6628
+        },
+        "CAMERA1010": {
+            "LEFT": 1048,
+            "TOP": 2002,
+            "RIGHT": 23628,
+            "BOTTOM": 4857
+        },
+        "CAMERA1011": {
+            "LEFT": 1176,
+            "TOP": 744,
+            "RIGHT": 7137,
+            "BOTTOM": 3137
+        },
+        "CAMERA1012": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1013": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1014": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1015": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1016": {
+            "LEFT": 9418,
+            "TOP": 4683,
+            "RIGHT": 17757,
+            "BOTTOM": 8528
+        },
+        "CAMERA1017": {
+            "LEFT": 9397,
+            "TOP": 2904,
+            "RIGHT": 17688,
+            "BOTTOM": 7493
+        },
+        "CAMERA1018": {
+            "LEFT": 9372,
+            "TOP": 1851,
+            "RIGHT": 17767,
+            "BOTTOM": 5741
+        },
+        "CAMERA1019": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1020": {
+            "LEFT": 17151,
+            "TOP": 6037,
+            "RIGHT": 23469,
+            "BOTTOM": 9084
+        },
+        "CAMERA1021": {
+            "LEFT": 21277,
+            "TOP": 3526,
+            "RIGHT": 23425,
+            "BOTTOM": 6875
+        },
+        "CAMERA1022": {
+            "LEFT": 17325,
+            "TOP": 1380,
+            "RIGHT": 23483,
+            "BOTTOM": 4376
+        },
+        "CAMERA1023": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1101": {
+            "LEFT": 8473,
+            "TOP": 1890,
+            "RIGHT": 16573,
+            "BOTTOM": 3262
+        },
+        "CAMERA1102": {
+            "LEFT": 4231,
+            "TOP": 2301,
+            "RIGHT": 10411,
+            "BOTTOM": 4906
+        },
+        "CAMERA1103": {
+            "LEFT": 7753,
+            "TOP": 1982,
+            "RIGHT": 20010,
+            "BOTTOM": 3705
+        },
+        "CAMERA1104": {
+            "LEFT": 1809,
+            "TOP": 2943,
+            "RIGHT": 22678,
+            "BOTTOM": 5781
+        },
+        "CAMERA1105": {
+            "LEFT": 1381,
+            "TOP": 4385,
+            "RIGHT": 21531,
+            "BOTTOM": 7033
+        },
+        "CAMERA1106": {
+            "LEFT": 1329,
+            "TOP": 4874,
+            "RIGHT": 3828,
+            "BOTTOM": 6508
+        },
+        "CAMERA1107": {
+            "LEFT": 5576,
+            "TOP": 6311,
+            "RIGHT": 17209,
+            "BOTTOM": 8379
+        },
+        "CAMERA1108": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1109": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1201": {
+            "LEFT": 8336,
+            "TOP": 1870,
+            "RIGHT": 16595,
+            "BOTTOM": 3303
+        },
+        "CAMERA1202": {
+            "LEFT": 14434,
+            "TOP": 2242,
+            "RIGHT": 20866,
+            "BOTTOM": 4921
+        },
+        "CAMERA1203": {
+            "LEFT": 5121,
+            "TOP": 1980,
+            "RIGHT": 17270,
+            "BOTTOM": 3671
+        },
+        "CAMERA1204": {
+            "LEFT": 2052,
+            "TOP": 2933,
+            "RIGHT": 23343,
+            "BOTTOM": 5792
+        },
+        "CAMERA1205": {
+            "LEFT": 3441,
+            "TOP": 4470,
+            "RIGHT": 23544,
+            "BOTTOM": 7155
+        },
+        "CAMERA1206": {
+            "LEFT": 21160,
+            "TOP": 4905,
+            "RIGHT": 23689,
+            "BOTTOM": 6504
+        },
+        "CAMERA1207": {
+            "LEFT": 7749,
+            "TOP": 6301,
+            "RIGHT": 19349,
+            "BOTTOM": 8380
+        },
+        "CAMERA1208": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1209": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1301": {
+            "LEFT": 3176,
+            "TOP": 3783,
+            "RIGHT": 3928,
+            "BOTTOM": 4217
+        },
+        "CAMERA1302": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1303": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1304": {
+            "LEFT": 3323,
+            "TOP": 3689,
+            "RIGHT": 6574,
+            "BOTTOM": 4286
+        },
+        "CAMERA1305": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1306": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1307": {
+            "LEFT": 8537,
+            "TOP": 3793,
+            "RIGHT": 9268,
+            "BOTTOM": 4258
+        },
+        "CAMERA1308": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1309": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1310": {
+            "LEFT": 6160,
+            "TOP": 3691,
+            "RIGHT": 9161,
+            "BOTTOM": 4311
+        },
+        "CAMERA1311": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1312": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        }
+    },
+    "MONDEO_5P": {
+        "CAMERA1001": {
+            "LEFT": 18,
+            "TOP": 6006,
+            "RIGHT": 1980,
+            "BOTTOM": 9088
+        },
+        "CAMERA1002": {
+            "LEFT": 22,
+            "TOP": 1432,
+            "RIGHT": 1970,
+            "BOTTOM": 4370
+        },
+        "CAMERA1003": {
+            "LEFT": 78,
+            "TOP": 6284,
+            "RIGHT": 3363,
+            "BOTTOM": 9217
+        },
+        "CAMERA1004": {
+            "LEFT": 37,
+            "TOP": 4540,
+            "RIGHT": 2092,
+            "BOTTOM": 7696
+        },
+        "CAMERA1005": {
+            "LEFT": 35,
+            "TOP": 2761,
+            "RIGHT": 2076,
+            "BOTTOM": 5892
+        },
+        "CAMERA1006": {
+            "LEFT": 67,
+            "TOP": 1216,
+            "RIGHT": 3396,
+            "BOTTOM": 4156
+        },
+        "CAMERA1007": {
+            "LEFT": 1400,
+            "TOP": 7314,
+            "RIGHT": 7184,
+            "BOTTOM": 9695
+        },
+        "CAMERA1008": {
+            "LEFT": 1219,
+            "TOP": 5577,
+            "RIGHT": 23634,
+            "BOTTOM": 8399
+        },
+        "CAMERA1009": {
+            "LEFT": 1230,
+            "TOP": 3827,
+            "RIGHT": 23664,
+            "BOTTOM": 6613
+        },
+        "CAMERA1010": {
+            "LEFT": 1205,
+            "TOP": 2033,
+            "RIGHT": 23649,
+            "BOTTOM": 4855
+        },
+        "CAMERA1011": {
+            "LEFT": 1384,
+            "TOP": 685,
+            "RIGHT": 7176,
+            "BOTTOM": 3143
+        },
+        "CAMERA1012": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1013": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1014": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1015": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1016": {
+            "LEFT": 9422,
+            "TOP": 4700,
+            "RIGHT": 18207,
+            "BOTTOM": 8604
+        },
+        "CAMERA1017": {
+            "LEFT": 9408,
+            "TOP": 2933,
+            "RIGHT": 18126,
+            "BOTTOM": 7502
+        },
+        "CAMERA1018": {
+            "LEFT": 9401,
+            "TOP": 1848,
+            "RIGHT": 18189,
+            "BOTTOM": 5728
+        },
+        "CAMERA1019": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1020": {
+            "LEFT": 17579,
+            "TOP": 5963,
+            "RIGHT": 23582,
+            "BOTTOM": 9193
+        },
+        "CAMERA1021": {
+            "LEFT": 22040,
+            "TOP": 3445,
+            "RIGHT": 23715,
+            "BOTTOM": 6958
+        },
+        "CAMERA1022": {
+            "LEFT": 17580,
+            "TOP": 1307,
+            "RIGHT": 23603,
+            "BOTTOM": 4470
+        },
+        "CAMERA1023": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1101": {
+            "LEFT": 8606,
+            "TOP": 1867,
+            "RIGHT": 16612,
+            "BOTTOM": 3235
+        },
+        "CAMERA1102": {
+            "LEFT": 3578,
+            "TOP": 1969,
+            "RIGHT": 22875,
+            "BOTTOM": 4987
+        },
+        "CAMERA1103": {
+            "LEFT": 8327,
+            "TOP": 1977,
+            "RIGHT": 20343,
+            "BOTTOM": 3697
+        },
+        "CAMERA1104": {
+            "LEFT": 1671,
+            "TOP": 3004,
+            "RIGHT": 22811,
+            "BOTTOM": 5772
+        },
+        "CAMERA1105": {
+            "LEFT": 1597,
+            "TOP": 4396,
+            "RIGHT": 21525,
+            "BOTTOM": 7022
+        },
+        "CAMERA1106": {
+            "LEFT": 1324,
+            "TOP": 4863,
+            "RIGHT": 3834,
+            "BOTTOM": 6518
+        },
+        "CAMERA1107": {
+            "LEFT": 5616,
+            "TOP": 6333,
+            "RIGHT": 17160,
+            "BOTTOM": 8355
+        },
+        "CAMERA1108": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1109": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1201": {
+            "LEFT": 8486,
+            "TOP": 1869,
+            "RIGHT": 16483,
+            "BOTTOM": 3266
+        },
+        "CAMERA1202": {
+            "LEFT": 2063,
+            "TOP": 1967,
+            "RIGHT": 21092,
+            "BOTTOM": 4967
+        },
+        "CAMERA1203": {
+            "LEFT": 4726,
+            "TOP": 1970,
+            "RIGHT": 17261,
+            "BOTTOM": 3683
+        },
+        "CAMERA1204": {
+            "LEFT": 2104,
+            "TOP": 2953,
+            "RIGHT": 23194,
+            "BOTTOM": 5789
+        },
+        "CAMERA1205": {
+            "LEFT": 3465,
+            "TOP": 4510,
+            "RIGHT": 23355,
+            "BOTTOM": 7138
+        },
+        "CAMERA1206": {
+            "LEFT": 21174,
+            "TOP": 4901,
+            "RIGHT": 23672,
+            "BOTTOM": 6513
+        },
+        "CAMERA1207": {
+            "LEFT": 7789,
+            "TOP": 6335,
+            "RIGHT": 19334,
+            "BOTTOM": 8355
+        },
+        "CAMERA1208": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1209": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1301": {
+            "LEFT": 3186,
+            "TOP": 3917,
+            "RIGHT": 3862,
+            "BOTTOM": 4336
+        },
+        "CAMERA1302": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1303": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1304": {
+            "LEFT": 3293,
+            "TOP": 3833,
+            "RIGHT": 6761,
+            "BOTTOM": 4417
+        },
+        "CAMERA1305": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1306": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1307": {
+            "LEFT": 8628,
+            "TOP": 3930,
+            "RIGHT": 9281,
+            "BOTTOM": 4372
+        },
+        "CAMERA1308": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1309": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1310": {
+            "LEFT": 6007,
+            "TOP": 3861,
+            "RIGHT": 9171,
+            "BOTTOM": 4415
+        },
+        "CAMERA1311": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1312": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        }
+    },
+    "MONDEO_WGN": {
+        "CAMERA1001": {
+            "LEFT": 48,
+            "TOP": 5939,
+            "RIGHT": 2006,
+            "BOTTOM": 9090
+        },
+        "CAMERA1002": {
+            "LEFT": 50,
+            "TOP": 1347,
+            "RIGHT": 1990,
+            "BOTTOM": 4497
+        },
+        "CAMERA1003": {
+            "LEFT": 112,
+            "TOP": 6286,
+            "RIGHT": 3509,
+            "BOTTOM": 9218
+        },
+        "CAMERA1004": {
+            "LEFT": 81,
+            "TOP": 4544,
+            "RIGHT": 2173,
+            "BOTTOM": 7707
+        },
+        "CAMERA1005": {
+            "LEFT": 75,
+            "TOP": 2749,
+            "RIGHT": 2130,
+            "BOTTOM": 5893
+        },
+        "CAMERA1006": {
+            "LEFT": 106,
+            "TOP": 1214,
+            "RIGHT": 3294,
+            "BOTTOM": 4155
+        },
+        "CAMERA1007": {
+            "LEFT": 1176,
+            "TOP": 7295,
+            "RIGHT": 6269,
+            "BOTTOM": 9403
+        },
+        "CAMERA1008": {
+            "LEFT": 1093,
+            "TOP": 5608,
+            "RIGHT": 5416,
+            "BOTTOM": 8351
+        },
+        "CAMERA1009": {
+            "LEFT": 1004,
+            "TOP": 3790,
+            "RIGHT": 5295,
+            "BOTTOM": 6664
+        },
+        "CAMERA1010": {
+            "LEFT": 1035,
+            "TOP": 2018,
+            "RIGHT": 5486,
+            "BOTTOM": 4874
+        },
+        "CAMERA1011": {
+            "LEFT": 1173,
+            "TOP": 1015,
+            "RIGHT": 6233,
+            "BOTTOM": 3154
+        },
+        "CAMERA1012": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1013": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1014": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1015": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1016": {
+            "LEFT": 9159,
+            "TOP": 4702,
+            "RIGHT": 21883,
+            "BOTTOM": 8697
+        },
+        "CAMERA1017": {
+            "LEFT": 9399,
+            "TOP": 2922,
+            "RIGHT": 21886,
+            "BOTTOM": 7517
+        },
+        "CAMERA1018": {
+            "LEFT": 8712,
+            "TOP": 1597,
+            "RIGHT": 21875,
+            "BOTTOM": 5731
+        },
+        "CAMERA1019": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1020": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1021": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1022": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1023": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1101": {
+            "LEFT": 8601,
+            "TOP": 1907,
+            "RIGHT": 18719,
+            "BOTTOM": 3247
+        },
+        "CAMERA1102": {
+            "LEFT": 4034,
+            "TOP": 2333,
+            "RIGHT": 10366,
+            "BOTTOM": 4941
+        },
+        "CAMERA1103": {
+            "LEFT": 15306,
+            "TOP": 1980,
+            "RIGHT": 21559,
+            "BOTTOM": 3708
+        },
+        "CAMERA1104": {
+            "LEFT": 1123,
+            "TOP": 2964,
+            "RIGHT": 22214,
+            "BOTTOM": 5775
+        },
+        "CAMERA1105": {
+            "LEFT": 1468,
+            "TOP": 4387,
+            "RIGHT": 21502,
+            "BOTTOM": 7023
+        },
+        "CAMERA1106": {
+            "LEFT": 1357,
+            "TOP": 4833,
+            "RIGHT": 3801,
+            "BOTTOM": 6507
+        },
+        "CAMERA1107": {
+            "LEFT": 5590,
+            "TOP": 6336,
+            "RIGHT": 17212,
+            "BOTTOM": 8352
+        },
+        "CAMERA1108": {
+            "LEFT": 9562,
+            "TOP": 2084,
+            "RIGHT": 22613,
+            "BOTTOM": 4803
+        },
+        "CAMERA1109": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1201": {
+            "LEFT": 6776,
+            "TOP": 1934,
+            "RIGHT": 16525,
+            "BOTTOM": 3282
+        },
+        "CAMERA1202": {
+            "LEFT": 14571,
+            "TOP": 2313,
+            "RIGHT": 20965,
+            "BOTTOM": 4940
+        },
+        "CAMERA1203": {
+            "LEFT": 3405,
+            "TOP": 1950,
+            "RIGHT": 9805,
+            "BOTTOM": 3696
+        },
+        "CAMERA1204": {
+            "LEFT": 2743,
+            "TOP": 2956,
+            "RIGHT": 23840,
+            "BOTTOM": 5779
+        },
+        "CAMERA1205": {
+            "LEFT": 3457,
+            "TOP": 4481,
+            "RIGHT": 23579,
+            "BOTTOM": 7134
+        },
+        "CAMERA1206": {
+            "LEFT": 21188,
+            "TOP": 4888,
+            "RIGHT": 23698,
+            "BOTTOM": 6499
+        },
+        "CAMERA1207": {
+            "LEFT": 7801,
+            "TOP": 6337,
+            "RIGHT": 19358,
+            "BOTTOM": 8357
+        },
+        "CAMERA1208": {
+            "LEFT": 2309,
+            "TOP": 2111,
+            "RIGHT": 15906,
+            "BOTTOM": 4826
+        },
+        "CAMERA1209": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1301": {
+            "LEFT": 3129,
+            "TOP": 2107,
+            "RIGHT": 6084,
+            "BOTTOM": 4975
+        },
+        "CAMERA1302": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1303": {
+            "LEFT": 2650,
+            "TOP": 3476,
+            "RIGHT": 7996,
+            "BOTTOM": 7061
+        },
+        "CAMERA1304": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1305": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1306": {
+            "LEFT": 2650,
+            "TOP": 3520,
+            "RIGHT": 4954,
+            "BOTTOM": 6562
+        },
+        "CAMERA1307": {
+            "LEFT": 6301,
+            "TOP": 2042,
+            "RIGHT": 9408,
+            "BOTTOM": 4976
+        },
+        "CAMERA1308": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1309": {
+            "LEFT": 4432,
+            "TOP": 3129,
+            "RIGHT": 9973,
+            "BOTTOM": 7518
+        },
+        "CAMERA1310": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1311": {
+            "LEFT": 0,
+            "TOP": 0,
+            "RIGHT": 0,
+            "BOTTOM": 0
+        },
+        "CAMERA1312": {
+            "LEFT": 7235,
+            "TOP": 3411,
+            "RIGHT": 10038,
+            "BOTTOM": 6888
+        }
+    }
+}

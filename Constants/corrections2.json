@@ -1,0 +1,66 @@
+{
+   "CX482": {
+      "CAMERA1312": {
+         "LEFT": 8301,
+         "TOP": 5551,
+         "RIGHT": 9344,
+         "BOTTOM": 6102
+      }
+   },
+   "LWB": {
+      "CAMERA1209": {
+         "LEFT": 2524,
+         "TOP": 4696,
+         "RIGHT": 20299,
+         "BOTTOM": 7008
+      }
+   },
+   "SWB": {
+      "CAMERA1312": {
+         "LEFT": 6241,
+         "TOP": 3214,
+         "RIGHT": 9773,
+         "BOTTOM": 6069
+      }
+   },
+   "GALAXY": {
+      "CAMERA1312": {
+         "LEFT": 6050,
+         "TOP": 2600,
+         "RIGHT": 9816,
+         "BOTTOM": 6630
+      }
+   },
+   "SMAX": {
+      "CAMERA1312": {
+         "LEFT": 5888,
+         "TOP": 2651,
+         "RIGHT": 10104,
+         "BOTTOM": 6931
+      }
+   },
+   "MONDEO_4P": {
+      "CAMERA1312": {
+         "LEFT": 0,
+         "TOP": 0,
+         "RIGHT": 0,
+         "BOTTOM": 0
+      }
+   },
+   "MONDEO_5P": {
+      "CAMERA1312": {
+         "LEFT": 0,
+         "TOP": 0,
+         "RIGHT": 0,
+         "BOTTOM": 0
+      }
+   },
+   "MONDEO_WGN": {
+      "CAMERA1312": {
+         "LEFT": 7235,
+         "TOP": 3411,
+         "RIGHT": 10038,
+         "BOTTOM": 6888
+      }
+   }
+}
